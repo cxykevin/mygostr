@@ -1,0 +1,5 @@
+{
+  "name": "MyGO Street",
+  "description": "专业的AI量化投研平台，集成TradingView，支持MyQuant/JoinQuant/Tushare策略生成，采用极简风格。",
+  "requestFramePermissions": []
+}
